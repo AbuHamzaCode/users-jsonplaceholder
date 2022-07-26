@@ -211,12 +211,6 @@
 			"url": "https://via.placeholder.com/600/24f355"
 		  },
 		  {
-			"albumId": 1,
-			"id": 4,
-			"title": "non sunt voluptatem placeat consequuntur rem incidunt",
-			"url": "https://via.placeholder.com/600/8e973b"
-		  },
-		  {
 			"albumId": 2,
 			"id": 5,
 			"title": "eveniet pariatur quia nobis reiciendis laboriosam ea",
@@ -235,12 +229,6 @@
 			"url": "https://via.placeholder.com/600/aa8f2e"
 		  },
 		  {
-			"albumId": 2,
-			"id": 8,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
 			"albumId": 3,
 			"id": 9,
 			"title": "voluptatem consequatur totam qui aut iure est vel",
@@ -255,12 +243,6 @@
 		  {
 			"albumId": 3,
 			"id": 11,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
-			"albumId": 3,
-			"id": 12,
 			"title": "voluptatem consequatur totam qui aut iure est vel",
 			"url": "https://via.placeholder.com/600/5e04a4"
 		  },
@@ -283,12 +265,6 @@
 			"url": "https://via.placeholder.com/600/5e04a4"
 		  },
 		  {
-			"albumId": 4,
-			"id": 16,
-			"title": "ut ex quibusdam dolore mollitia",
-			"url": "https://via.placeholder.com/600/aa8f2e"
-		  },
-		  {
 			"albumId": 5,
 			"id": 17,
 			"title": "voluptatem consequatur totam qui aut iure est vel",
@@ -307,12 +283,6 @@
 			"url": "https://via.placeholder.com/600/5e04a4"
 		  },
 		  {
-			"albumId": 5,
-			"id": 18,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
 			"albumId": 6,
 			"id": 18,
 			"title": "voluptatem consequatur totam qui aut iure est vel",
@@ -326,18 +296,6 @@
 		  },
 		  {
 			"albumId": 6,
-			"id": 18,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
-			"albumId": 6,
-			"id": 18,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
-			"albumId": 7,
 			"id": 18,
 			"title": "voluptatem consequatur totam qui aut iure est vel",
 			"url": "https://via.placeholder.com/600/5e04a4"
@@ -379,18 +337,6 @@
 			"url": "https://via.placeholder.com/600/5e04a4"
 		  },
 		  {
-			"albumId": 8,
-			"id": 18,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
-			"albumId": 9,
-			"id": 18,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
 			"albumId": 9,
 			"id": 18,
 			"title": "voluptatem consequatur totam qui aut iure est vel",
@@ -427,12 +373,6 @@
 			"url": "https://via.placeholder.com/600/5e04a4"
 		  },
 		  {
-			"albumId": 10,
-			"id": 18,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
 			"albumId": 11,
 			"id": 18,
 			"title": "voluptatem consequatur totam qui aut iure est vel",
@@ -446,18 +386,6 @@
 		  },
 		  {
 			"albumId": 11,
-			"id": 18,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
-			"albumId": 11,
-			"id": 18,
-			"title": "voluptatem consequatur totam qui aut iure est vel",
-			"url": "https://via.placeholder.com/600/5e04a4"
-		  },
-		  {
-			"albumId": 12,
 			"id": 18,
 			"title": "voluptatem consequatur totam qui aut iure est vel",
 			"url": "https://via.placeholder.com/600/5e04a4"
