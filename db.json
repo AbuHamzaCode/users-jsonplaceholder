@@ -1,0 +1,60 @@
+{
+   "emplyees": [
+      {
+        "id": 1,
+        "username": "Stanford_M",
+        "name": "Mike",
+        "email": "mike_stanford@yahoo.com",
+        "phone": "+1 256 365 4556",
+        "website": "stanford.us",
+        "address": "UK, London, Avenyu st. 13-1 ap.",
+        "work": {
+            "name": "Google",
+            "bs": "Hard Worker",
+            "catchPhrase": "It is better phrase today!"
+        }
+      },
+     {
+      "id": 2,
+      "username": "Lucky_jecy",
+      "name": "Jecy",
+      "email": "jecyLucky@gmail.com",
+      "phone": "+3 535 335 4654",
+      "website": "jecyLuck.com",
+      "address": "UK, Manchester, Klivi st. 114-5 ap.",
+      "work": {
+          "name": "Windows",
+          "bs": "Middle worker",
+          "catchPhrase": "Work for new better life!"
+      }
+    },
+    {
+      "id": 3,
+      "username": "MilaKu",
+      "name": "Mila",
+      "email": "milaKu@yahoo.com",
+      "phone": "+90 256 445 4545",
+      "website": "milasss.ru",
+      "address": "USA, Washington, Brighton bch. 202-66 ap.",
+      "work": {
+          "name": "NATO",
+          "bs": "Technic engineer",
+          "catchPhrase": "Knowledge is Brigth!"
+      }
+    },
+    {
+      "id": 4,
+      "username": "JackyPI",
+      "name": "Jacky",
+      "email": "jackyPI@yandex.ru",
+      "phone": "+55 643 335 4556",
+      "website": "jacky.pi",
+      "address": "India, Deli, Kurku st. 132-1 ap.",
+      "work": {
+          "name": "Global.org",
+          "bs": "Hard Worker",
+          "catchPhrase": "Finance ... it is future!"
+      }
+    }
+  ]
+}
